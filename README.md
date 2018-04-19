@@ -1,2 +1,2 @@
 # tinger
-tinger.ru
+Сайт: tinger.ru
